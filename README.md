@@ -19,7 +19,7 @@ This application aims to make it easier for mobile users to see food recipe
 ## Some app screenshots 
  
 ### SplashScreen
-![gambar](./screenshot/Splach_Screen.png)
+![gambar](./screenshot/Splash_Screen.png)
 
 ### LoginPage
 ![gambar](./screenshot/Login.png)
